@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Object Detection Walmart Assessment</string>
+    <string name="permission_denied">Required permissions denied. Exiting.</string>
+</resources>
