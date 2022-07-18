@@ -4,6 +4,7 @@ Cereal Model Object Detection
 This code uses TensorFlow lite and Machine Learning model to detect Cereal Boxes and outputs the probabilities of what Cereal box it is.
 
 The App takes the images as bitmap from your device's back camera, process it using the cereal_model.tflite model and outputs the probabilities.
+You can see the camera preview in the activity and can see the probabilities in the bottom sheet when you swipe up.
 
 
 Here is the example code to show this.
