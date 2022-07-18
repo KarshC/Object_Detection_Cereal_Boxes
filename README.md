@@ -25,6 +25,8 @@ val probability = outputs.probabilityAsCategoryList
 model.close()
 [Releases model resources if no longer used]
 
+Next Step - 
+Train the model to further output the image location, height and width to create bounding box around the image we are detecting.
 
 References - 
 
